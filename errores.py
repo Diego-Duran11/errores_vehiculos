@@ -50,7 +50,6 @@ errores_bmw = [
             "Reemplazar los sensores si están defectuosos, o el catalizador si está dañado."
         )
     },
-    # Nuevos códigos de error añadidos a la base de datos
     {
         "codigo_error": "P1004",
         "descripcion": (

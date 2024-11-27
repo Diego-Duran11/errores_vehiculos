@@ -1,6 +1,4 @@
-from modulo_busqueda import buscar_error  # Ajusta el nombre según corresponda
-
-# Resto de tu código
+from modulo_busqueda import buscar_error
 def mostrar_menu():
     print("\n--- Menú de Opciones ---")
     print("1. Buscar un código de error")
